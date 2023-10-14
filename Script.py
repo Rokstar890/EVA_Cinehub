@@ -3,7 +3,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 ℍ𝔼ℝ𝔼 𝕀𝕊 𝕄𝕐 ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊."""
     ABOUT_TXT = """
-> 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href= https://t.me/anonymous7205>🆂🅾️🆄🅼🅰️🅳🅸🅿️</a>
+> 𝙼𝚈 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href= https://t.me/netflix_india_007>ROKSTAR</a>
 > 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 > 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 > 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -11,8 +11,8 @@ class script(object):
 > 𝙱𝚄𝙸𝙻𝙳: v1.0.1 [ ℂ𝕀ℕ𝔼ℍ𝕌𝔹 𝕍𝔼ℝ𝕊𝕀𝕆ℕ ]"""
     SOURCE_TXT = """<b>SOURCE:--</b>
      
-• 𝕄𝕐 𝕊𝕆𝕌ℝℂ𝔼:- <a href= https://t.me/anonymous7205>𝗘𝘃𝗮𝗖𝗶𝗻𝗲𝗵𝘂𝗯</a>.\n
-• 𝔻𝔼𝕍:- <a href= https://t.me/anonymous7205>🆂🅾️🆄🅼🅰️🅳🅸🅿️</a>"""
+• 𝕄𝕐 𝕊𝕆𝕌ℝℂ𝔼:- <a href= https://t.me/betflix_india_007>𝗘𝘃𝗮𝗖𝗶𝗻𝗲𝗵𝘂𝗯</a>.\n
+• 𝔻𝔼𝕍:- <a href= https://t.me/netflix_india_007>ROKSTAR</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - 𝔽𝕚𝕝𝕥𝕖𝕣 𝕚𝕤 𝕥𝕙𝕖 𝕗𝕖𝕒𝕥𝕦𝕣𝕖 𝕨𝕖𝕣𝕖 𝕦𝕤𝕖𝕣𝕤 𝕔𝕒𝕟 𝕤𝕖𝕥 𝕒𝕦𝕥𝕠𝕞𝕒𝕥𝕖𝕕 𝕣𝕖𝕡𝕝𝕚𝕖𝕤 𝕗𝕠𝕣 𝕒 𝕡𝕒𝕣𝕥𝕚𝕔𝕦𝕝𝕒𝕣 𝕜𝕖𝕪𝕨𝕠𝕣𝕕 𝕒𝕟𝕕 𝔼𝕧𝕒𝕄𝕒𝕣𝕚𝕒 𝕨𝕚𝕝𝕝 𝕣𝕖𝕤𝕡𝕠𝕟𝕕 𝕨𝕙𝕖𝕟𝕖𝕧𝕖𝕣 𝕒 𝕜𝕖𝕪𝕨𝕠𝕣𝕕 𝕚𝕤 𝕗𝕠𝕦𝕟𝕕 𝕥𝕙𝕖 𝕞𝕖𝕤𝕤𝕒𝕘𝕖.
 <b>NOTE:</b>
