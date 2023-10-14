@@ -41,7 +41,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('📢 Updates', url='https://t.me/Cinemaforyou07')
+            InlineKeyboardButton('📢 Updates', url='https://t.me/netflixvilla_india')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -60,8 +60,8 @@ async def save_group(bot, message):
                 #BUTTON_FORMAT = MELCOW_NEW_TEXT.split('button:')[1]
                 
                 btns = [
-                 [InlineKeyboardButton('⚡️ 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ⚡️', url=f"https://t.me/cinemahub02/9")],
-                 [InlineKeyboardButton('📁 𝐾𝑁𝑂𝑊 𝐴𝐵𝑂𝑈𝑇 𝐹𝐼𝐿𝐸 𝑇𝑌𝑃𝐸𝑆 📁', url='https://t.me/cinemahub02/14')
+                 [InlineKeyboardButton('⚡️ 𝐔𝐏𝐃𝐀𝐓𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ⚡️', url=f"https://t.me/netflixvilla_india")],
+                 [InlineKeyboardButton('📁 𝐾𝑁𝑂𝑊 𝐴𝐵𝑂𝑈𝑇 𝐹𝐼𝐿𝐸 𝑇𝑌𝑃𝐸𝑆 📁', url='https://t.me/netflixvilla_india')
                 ]]
                 reply_markup=InlineKeyboardMarkup(btns)
 
@@ -85,7 +85,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('DEV', url=f'https://t.me/anonymous7205')
+            InlineKeyboardButton('DEV', url=f'https://t.me/netflix_india_007')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
