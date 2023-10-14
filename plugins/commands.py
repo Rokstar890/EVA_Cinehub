@@ -41,7 +41,7 @@ async def start(client, message):
         buttons = [[
         InlineKeyboardButton('➕ 𝔸𝕕𝕕 𝕄𝕖 𝕋𝕠 𝕐𝕠𝕦𝕣 ℂ𝕙𝕒𝕥 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-        InlineKeyboardButton('  𝕁𝕠𝕚𝕟 ℂ𝕚𝕟𝕖𝕙𝕦𝕓 ', url=f'https://t.me/netflixvillaindia1')],
+        InlineKeyboardButton('  𝕁𝕠𝕚𝕟  ', url=f'https://t.me/netflixvillaindia1')],
         [InlineKeyboardButton('𝕌𝕡𝕕𝕒𝕥𝕖 ℂ𝕙𝕒𝕟𝕟𝕖𝕝', url='https://t.me/netflixvilla_india')
         ],
         [
