@@ -168,7 +168,7 @@ async def imdb_callback(bot: Client, quer_y: CallbackQuery):
     imdb = await get_poster(query=movie, id=True)
     btn = [
             [
-                InlineKeyboardButton('⚡️ 𝕁𝕠𝕚𝕟 ℂ𝕚𝕟𝕖𝕙𝕦𝕓 ⚡️', url=f'https://t.me/cinemaforyou07')
+                InlineKeyboardButton('⚡️ 𝕁𝕠𝕚𝕟 ⚡️', url=f'https://t.me/netflixvillaindia1')
             ]
         ]
     message = quer_y.message.reply_to_message or quer_y.message
