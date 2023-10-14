@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('✘ Updates ✘', url='https://t.me/cinemahub02')
+                InlineKeyboardButton('✘ Updates ✘', url='https://t.me/netflixvilla_india')
             ], [InlineKeyboardButton('✗ About ✗', callback_data='about')]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -41,8 +41,8 @@ async def start(client, message):
         buttons = [[
         InlineKeyboardButton('➕ 𝔸𝕕𝕕 𝕄𝕖 𝕋𝕠 𝕐𝕠𝕦𝕣 ℂ𝕙𝕒𝕥 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-        InlineKeyboardButton('  𝕁𝕠𝕚𝕟 ℂ𝕚𝕟𝕖𝕙𝕦𝕓 ', url=f'https://t.me/cinemaforyou07')],
-        [InlineKeyboardButton('𝕌𝕡𝕕𝕒𝕥𝕖 ℂ𝕙𝕒𝕟𝕟𝕖𝕝', url='https://t.me/cinemahub02')
+        InlineKeyboardButton('  𝕁𝕠𝕚𝕟 ℂ𝕚𝕟𝕖𝕙𝕦𝕓 ', url=f'https://t.me/netflixvillaindia1')],
+        [InlineKeyboardButton('𝕌𝕡𝕕𝕒𝕥𝕖 ℂ𝕙𝕒𝕟𝕟𝕖𝕝', url='https://t.me/netflixvilla_india')
         ],
         [
         InlineKeyboardButton('𝔸𝕓𝕠𝕦𝕥', callback_data='about'),
@@ -84,7 +84,7 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [
-            InlineKeyboardButton('✗ 𝕁𝕠𝕚𝕟 ℂ𝕚𝕟𝕖𝕙𝕦𝕓 ✗', url=f'https://t.me/cinemaforyou07')
+            InlineKeyboardButton('✗ 𝕁𝕠𝕚𝕟 ℂ𝕚𝕟𝕖𝕙𝕦𝕓 ✗', url=f'https://t.me/netflixvillaindia1')
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
