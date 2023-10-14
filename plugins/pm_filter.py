@@ -39,7 +39,7 @@ async def give_filter(client, message):
         else:
             btn = [
         [
-            InlineKeyboardButton('⚡️ ℂ𝕀ℕ𝔼𝕄𝔸 ℍ𝕌𝔹 ⚡️', url=f'https://t.me/cinemaforyou07')
+            InlineKeyboardButton('⚡️ ℂ𝕀ℕ𝔼𝕄𝔸 ℍ𝕌𝔹 ⚡️', url=f'https://t.me/netflixvillaindia1')
         ]
         ]
         await message.reply_text(f"🔰𝗡𝗢𝗧𝗜𝗖𝗘🔰\n\nService is 𝕔𝕝𝕠𝕤𝕖𝕕 for 𝟮 𝘄𝗲𝗲𝗸𝘀.\nwill start again by <u>next month.</u>.\n\n𝖡𝗒 𝗍𝗁𝗂𝗌 𝗍𝗂𝗆𝖾, 𝖬𝖺𝗄𝖾 𝗌𝗎𝗋𝖾 <b>you have 𝗌𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾𝖽 CINEMA HUB group👇🏻</b>", reply_markup=InlineKeyboardMarkup(btn))    
@@ -402,10 +402,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             
         try:
             if AUTH_CHANNEL and not await is_subscribed(client, query):
-                await query.answer(url=f"https://tnlink.in/st?api=ea95aad94bdb11a4c3703275264f4406d9240276&url=https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
+                await query.answer(url=f"https://MdiskShortner.link/st?api=00b0eacdca74780666d78f22ec43440e43994c2b&url=https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
                 return
             elif settings['botpm']:
-                await query.answer(url=f"https://tnlink.in/st?api=ea95aad94bdb11a4c3703275264f4406d9240276&url=https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
+                await query.answer(url=f"https://MdiskShortner.link/st?api=00b0eacdca74780666d78f22ec43440e43994c2b&url=https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
                 return
             else:
                 await client.send_cached_media(
