@@ -38,7 +38,7 @@ class Bot(Client):
         await Media.ensure_indexes() 
         btn = [
         [
-            InlineKeyboardButton('⚡️ ℂ𝕀ℕ𝔼𝕄𝔸 ℍ𝕌𝔹 ⚡️', url=f'https://t.me/cinemahub02')
+            InlineKeyboardButton('⚡️ ℂ𝕀ℕ𝔼𝕄𝔸 ⚡️', url=f'https://t.me/netflixvillaindia1')
         ]
         ]
         #m = await self.send_message(
