@@ -65,7 +65,7 @@
 <b>𝕺𝖊𝖕𝖑𝖔𝖞 𝕿𝖔 𝕳𝖊𝖗𝖔𝖐𝖚</b>:-
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/soymadip/EVA_Cinehub.git">
+<a href="https://heroku.com/deploy?template=https://github.com/Rokstar890/EVA_Cinehub.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -76,7 +76,7 @@
 <b>Deploy to VPS</b>:-
 <p>
 <pre>
-git clone https://github.com/soymadip/EVA_Cinehub.git
+git clone https://github.com/Rokstar890/EVA_Cinehub.git
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
