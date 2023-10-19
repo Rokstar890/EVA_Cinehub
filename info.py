@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'EVA_CINEHUB')
 API_ID = int(environ['23762978'])
 API_HASH = environ['eff30dac5504a8660e69bfe19f668571']
-BOT_TOKEN = environ['6539307245:AAFYGY9pbG3THq_MBytjshDSTYAntUn2DQo']
+BOT_TOKEN = environ['6239835382:AAH-YcVJ8_eBypHta4hFqLMcfYI4RSS1mvs']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
